@@ -84,7 +84,7 @@ g++ -o network_monitor main.cpp -std=c++11
 ## Running the Program
 
 ```bash
-sudo ./network_monitor
+sudo ./assignment_2
 ```
 
 By default, the program captures packets for **60 seconds** and displays results afterward.
